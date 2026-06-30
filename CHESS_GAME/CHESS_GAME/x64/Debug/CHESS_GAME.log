@@ -1,0 +1,14 @@
+﻿  Bishop.cpp
+  Board.cpp
+  FileLogger.cpp
+  GameState.cpp
+  King.cpp
+  Knight.cpp
+  Main.cpp
+  MoveValidator.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+  CHESS_GAME.vcxproj -> C:\Users\hasna\source\repos\CHESS_GAME\x64\Debug\CHESS_GAME.exe

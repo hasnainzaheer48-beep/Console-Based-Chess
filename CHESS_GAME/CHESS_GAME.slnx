@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="ChessLog.txt" />
+  </Folder>
+  <Project Path="CHESS_GAME/CHESS_GAME.vcxproj" Id="bd72c8b4-e721-45ab-b76e-93f4ce570197" />
+</Solution>
